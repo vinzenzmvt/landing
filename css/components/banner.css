@@ -1,0 +1,59 @@
+.banner{
+  background-image: linear-gradient(-200deg,RGBA(255, 84, 0, 0.4)0%,RGBA(255, 100, 0, 0.2)50%), linear-gradient(-225deg, RGBA(0,0,0,0.7)0%,  RGBA(0,0,0,0.3)50%), url("../../images/banner2.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-top: 0px;
+  padding-bottom: 100px;
+  color: white;
+  opacity: 1;
+  margin-bottom: 40px;
+}
+
+.banner h1{
+  font-size: 50px;
+  padding-top: 100px;
+  color: white;
+}
+
+.banner h2{
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 1;
+  margin-bottom: 30px;
+  color: white;
+}
+
+#container-banner{
+  background-color: transparent;
+}
+
+#weine{
+  background-image: linear-gradient(-200deg,RGBA(255, 84, 0, 0.4)0%,RGBA(255, 100, 0, 0.2)50%), linear-gradient(-225deg, RGBA(0,0,0,0.7)0%,  RGBA(0,0,0,0.3)50%), url("../../images/banner9.jpg");
+}
+
+#betrieb{
+  background-image: linear-gradient(-200deg,RGBA(255, 84, 0, 0.4)0%,RGBA(255, 100, 0, 0.2)50%), linear-gradient(-225deg, RGBA(0,0,0,0.7)0%,  RGBA(0,0,0,0.3)50%), url("../../images/banner.jpg");
+}
+
+#geschichte{
+  background-image: linear-gradient(-200deg,RGBA(255, 84, 0, 0.4)0%,RGBA(255, 100, 0, 0.2)50%), linear-gradient(-225deg, RGBA(0,0,0,0.7)0%,  RGBA(0,0,0,0.3)50%), url("../../images/banner_geschichte.jpg");
+}
+
+#besuch{
+  background-image: linear-gradient(-200deg,RGBA(255, 84, 0, 0.4)0%,RGBA(255, 100, 0, 0.2)50%), linear-gradient(-225deg, RGBA(0,0,0,0.7)0%,  RGBA(0,0,0,0.3)50%), url("../../images/banner4.jpg");
+}
+
+#bestellungen{
+  background-image: linear-gradient(-200deg,RGBA(255, 84, 0, 0.4)0%,RGBA(255, 100, 0, 0.2)50%), linear-gradient(-225deg, RGBA(0,0,0,0.7)0%,  RGBA(0,0,0,0.3)50%), url("../../images/banner8.jpg");
+}
+
+#links{
+  background-image: linear-gradient(-200deg,RGBA(255, 84, 0, 0.4)0%,RGBA(255, 100, 0, 0.2)50%), linear-gradient(-225deg, RGBA(0,0,0,0.7)0%,  RGBA(0,0,0,0.3)50%), url("../../images/banner_geschichte.jpg");
+}
+
+#ende{
+  margin-bottom: 0px;
+}
+#ende h1{
+  text-align: center;
+}

@@ -1,0 +1,18 @@
+.container{
+  width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+
+/*Add media queries to adapt container and buttons to screensize*/
+@media (max-width: 1007px) { /*size for tablets and phablets*/
+	.container{
+		width: 600px;
+	}
+}
+
+@media (max-width: 640px) { /*size for smartphones*/
+	.container{
+		width: 400px;
+	}
+}

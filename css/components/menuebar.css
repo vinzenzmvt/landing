@@ -1,0 +1,33 @@
+.menuebar-top {
+  background-color: transparent;
+  overflow: hidden;
+  text-transform: uppercase;
+}
+
+.menuebar-top ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menuebar-top li{
+  display: inline;
+}
+
+.menuebar-top a{
+  float:right;
+  color: white;
+  text-decoration: none;
+  padding: 14px 16px;
+  font-weight: bolder;
+  border-right: solid;
+  border-right-width: thin;
+}
+
+.active{
+  background-color: #EE964B;
+}
+
+.menuebar-top a:hover{
+  background-color: #F95738;
+}

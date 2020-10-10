@@ -1,0 +1,23 @@
+.btn-yellow{
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+	background-color: #EE964B;
+	color: white;
+	font-weight: bolder;
+	padding: 15px 20px;
+	border-radius: 6px;
+	width: 200px;
+	text-align: center;
+}
+
+.btn-yellow:hover{
+	background-color: #F95738;
+	color: white;
+	box-shadow: 5px 10px 30px rgba(0,0,0,.4);
+}
+
+/*
+.btn-yellow a{
+	font-family: 'Amiri', serif;
+}
+*/
